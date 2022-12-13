@@ -1,0 +1,9 @@
+[
+  {"type":  "teacher", "name": "Ivan Ivanov"},
+  {"type":  "offsite", "name":  "Web dev 3000", "teacher":  "Ivan Ivanov", "program":  ["JS", "HTML", "CSS"], "address": "Google meet"},
+  {"type":  "teacher", "name": "Businessman Dima"},
+  {"type":  "local", "name":  "Making money", "teacher":  "Businessman Dima", "program":  ["Business", "Finances"], "auditory":  "Class 133"},
+  {"type":  "teacher", "name": "Psychologist Andrew"},
+  {"type":  "offsite", "name":  "Heal your soul", "teacher":  "Psychologist Andrew", "program":  ["Psychology", "Heartbroken people"], "address":  "Zoom"},
+  {"type":  "offsite", "name":  "Be rich", "teacher":  "Psychologist Andrew", "program":  ["Richness", "Poorness"], "address":  "Zoom"}
+]
